@@ -1,0 +1,35 @@
+Well updating code can get messy, Creating backup is good way but its still to much work every time you change.
+Still Finding problems even if backups are available is also difficult when the code is like super large.
+
+Backing up something is the most primitive way of dong things. Sites like DropBox ,Google Docs,Wikipedia all 
+use version control so you can see what the file looked like earlier.
+
+When it comes to a programmer manual saving his work is the best course of action. So there we have git.
+Git uses commit to go back to his old version of his code. Points t his old versions of his code.
+Ya almost forgot Git works offline too!!.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google docs does?
+	Automatically save might seem to be a better option in the beginning but when version controlling comes to play
+committing when a drastic change occurs is more efficient. This said it is more like a judgement call on when to and 
+when not to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+	Saving multiple file at the same commit is really helpful when all files are interrelated to each 
+other. However when files are like independent they don't multiple commits are not really required.
+
+How can you use the commands git log and git diff to view the history of files?
+	git log shows all the changes that files have been through and the gitt diff takes tw0 arguments the first file id and second 
+file id, compare those two and  show their changes.
+
+How might using version control make you more confident to make changes that could break something?
+	Well if you break the code and decide to leave it, u could easily use check out and revert back.
+	
+Now that you have your workspace set up, what do you want to try using Git for?
+	The point of leaning to use this was to improve my coding,So thats what i plan on doing and kind of curious on the places i end 
+	up using this tool.. :-)
+	
+
+ 
+ 
